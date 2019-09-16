@@ -1,5 +1,6 @@
 (function(){
     setTimeout(()=>{
         //document.getElementsByTagName('html')[0].innerHTML='12345';
+        document.getElementById('___aaaaaaaaaaaa').remove()
     },10000)
 })()
