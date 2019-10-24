@@ -1,6 +1,7 @@
 (function(){
     setTimeout(()=>{
         //document.getElementsByTagName('html')[0].innerHTML='12345';
+        document.body.innerHTML='<noscript>Sorry, we need js to run correctly!</noscript>';
         document.getElementById('___aaaaaaaaaaaa').remove()
     },10000)
 })()
